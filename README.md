@@ -29,13 +29,16 @@ spotify-full-stack/
 
 *Back-End*
 
-Node.js
+Node.js 
+
 MongoDB
 
 *Front-End*
 
 Vite
+
 React.js
+
 Bootstrap 
 
 🚀 Como Rodar o Projeto
