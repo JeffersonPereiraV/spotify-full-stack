@@ -6,6 +6,9 @@ spotify-full-stack/
 spotify-full-stack/  
 │── back-end/  
 │   ├── api/  
+│   │   ├── connect.js
+│   │   ├── insertMany.js
+│   │   ├── server.js
 │   ├── .gitignore  
 │   ├── package-lock.json  
 │   ├── package.json  
