@@ -27,12 +27,12 @@ spotify-full-stack/
 
 🛠️ Tecnologias Utilizadas
 
-Back-End
+*Back-End*
 
 Node.js
 MongoDB
 
-Front-End
+*Front-End*
 
 Vite
 React.js
