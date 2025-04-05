@@ -5,7 +5,7 @@ Este é um projeto full stack que simula funcionalidades do Spotify, desenvolvid
 spotify-full-stack/  
 │── back-end/  
 │   ├── api/  
-|   |   ├── connect.js
+│   │   ├── connect.js
 |   |   ├── insertMany.js
 |   |   ├── server.js
 │   ├── .gitignore  
